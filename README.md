@@ -1,7 +1,6 @@
 # Heavybit Speaker Series Guide
 Heavybit helps its member companies take developer products to market. Members like Stripe, PagerDuty and RainforestQA look to our advisors, alumni and staff to help shape their businesses. As part of this program, we host evening presentations in the Heavybit Clubhouse (325 Ninth St., SF, CA). The event includes dinner at 6pm, and a 1 hour program (including Q&A). Your audience includes:
-* ONSITE: 
-** Speaker Series: 30-50 founders and employees at developer companies -- generally those who work on engineering, product, product marketing, evangelism, early sales and ops.
+* ONSITE: 30-50 founders and employees at developer companies -- generally those who work on engineering, product, product marketing, evangelism, early sales and ops.
 * ONLINE: 50-60K video viewers specifically interested in learning about topics relevant to Series Seed to Series B developer and enterprise company go-to-market
 
 ## Formats We Accept
