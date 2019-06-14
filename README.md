@@ -1,22 +1,14 @@
 # Heavybit Speaker Series Guide
 Heavybit helps its member companies take developer products to market. Members like Stripe, PagerDuty and RainforestQA look to our advisors, alumni and staff to help shape their businesses. As part of this program, we host evening presentations in the Heavybit Clubhouse (325 Ninth St., SF, CA). The event includes dinner at 6pm, and a 1 hour program (including Q&A). Your audience includes:
-* ONSITE: 30-50 founders and employees at developer companies -- generally those who work on engineering, product, product marketing, evangelism, early sales and ops; and, 
-* ONLINE: 50-60K video viewers specifically interested in learning about developer marketing, sales and product design. 
-
-## Topics We Accept
-Content we accept is educational, actionable, inclusive, based on real experience, and is stage-appropriate to Heavybit's Seed to Series B developer company founder audience. This includes: 
-
-* User Onboarding & Product: Product Launches, DX, documentation, API design, user engagement, empty states etc.
-* Pricing: Rollouts, tiered and metered pricing, value-based pricing, general packaging, commercial strategies for open source
-* User Acquisition: Evangelism,  Content Marketing, Events
-* Enterprise Product : API Management, Security, Data Management, SLAs, Governance, Performance, Architecture Trends
-* Enterprise Marketing & Sales: GTM Ops, Demand Gen, Lead Gen, nurturing, SEM/SEO, technical sales compensation, articles written from the perspective of a first TAM, SDR, SE.
-* General Management, Hiring and People Ops as they concern devops, developer and enterprise companies
+* ONSITE: 
+** Speaker Series: 30-50 founders and employees at developer companies -- generally those who work on engineering, product, product marketing, evangelism, early sales and ops.
+* ONLINE: 50-60K video viewers specifically interested in learning about topics relevant to Series Seed to Series B developer and enterprise company go-to-market
 
 ## Formats We Accept
-* 30 Min Presentations w/ 30 Min Q&A
-* Fireside Chats
-* Panels (up to 3 panel participants and 1 moderator)
+* Speaker Series
+  * 30 Min Presentations w/ 30 Min Q&A
+  * 30 Min Fireside Chats  w/ 30 Min Q&A
+  * 30 Min Panels (up to 3 panel participants and 1 moderator) w/ 30 Min Q&A
 
 ## We Reserve the Right to Refuse Submissions
 Note: While we appreciate the offer to contribute to Heavybit, we also reserve the right to refuse submissions. In some cases, suggested topics are inappropriate to our stage of company, or a topic has been presented in the past. We do not accept product pitches, breaking news, pieces targeted at a specific individual or hyper-specific situation, or anything counter to our [Code of Conduct](https://github.com/heavybit/conduct). We reserve the right to edit or unpublish speaker video based on our [content and fact checking policy](https://github.com/heavybit/content-and-fact-checking-policy).
